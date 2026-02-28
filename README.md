@@ -14,7 +14,7 @@ As Founder & CTO of UNITZERO, I lead development of AI-powered workflows, intell
 - Founder & CTO — UNITZERO (Pvt) Ltd.  
 - Specializing in AI automations, agentic workflows, and scalable systems  
 - Karachi, Pakistan  
-- Helping SMBs capture more leads and scale efficiently with AI automation :contentReference[oaicite:3]{index=3}
+- Helping SMBs capture more leads and scale efficiently with AI automation
 
 ---
 
@@ -24,7 +24,7 @@ As Founder & CTO of UNITZERO, I lead development of AI-powered workflows, intell
 - Agent-driven AI systems
 - AI task automation & workflow orchestration
 - Voice receptionists & lead answering engines  
-- Intelligent agents that integrate with CRMs and business systems :contentReference[oaicite:4]{index=4}
+- Intelligent agents that integrate with CRMs and business systems
 
 **Software & Stack**
 - Python • JavaScript • TypeScript  
@@ -44,7 +44,7 @@ As Founder & CTO of UNITZERO, I lead development of AI-powered workflows, intell
 - AI workflows that reduce repetitive work  
 - Human-like AI assistants that *drive revenue*  
 - Turn missed calls and leads into automated opportunities  
-- AI-first backend products that scale with business needs :contentReference[oaicite:5]{index=5}
+- AI-first backend products that scale with business needs
 
 ---
 
