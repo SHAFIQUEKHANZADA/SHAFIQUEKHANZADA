@@ -1,81 +1,72 @@
 # Shafique Ur Rehman
 
-### Founder @ UNITZERO (Pvt) Ltd.
-AI Software Engineer • AI Automation Architect • Agentic AI
+### Founder & CTO @ UNITZERO (Pvt) Ltd.
+AI Software Engineer • AI Automation Architect • AI-Driven Systems
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I build production-ready AI systems that automate workflows, optimize operations, and create intelligent digital infrastructure for modern businesses.
+I build practical AI and automation systems that help businesses capture leads, automate workflows, and optimize operations. My focus is on *real-world deployment* rather than concept demos.
 
-My focus is not demos — it’s deployment.
+As Founder & CTO of UNITZERO, I lead development of AI-powered workflows, intelligent agents, and automation infrastructure designed for measurable business impact.
 
-- 🏢 Founder of UNITZERO (Pvt) Ltd.
-- 🤖 Designing Agentic AI Systems
-- 🔁 Architecting AI Automation Pipelines
-- 🧠 Building end-to-end AI Software (Backend → Models → Deployment)
-
----
-
-## 🧠 Core Expertise
-
-- Agentic AI & Multi-Agent Systems
-- LLM Integrations (OpenAI, Claude, Local Models)
-- AI Workflow Automation (n8n, custom automation engines)
-- RAG Systems & Vector Databases
-- Backend Architecture (Node.js, Python)
-- Full-Stack Development (React, TypeScript)
-- API Design & Microservices
+- Founder & CTO — UNITZERO (Pvt) Ltd.  
+- Specializing in AI automations, agentic workflows, and scalable systems  
+- Karachi, Pakistan  
+- Helping SMBs capture more leads and scale efficiently with AI automation :contentReference[oaicite:3]{index=3}
 
 ---
 
-## 🛠 Tech Stack
+## Core Expertise
 
-**Languages**
-- Python
-- TypeScript
-- JavaScript
+**AI & Automation**
+- Agent-driven AI systems
+- AI task automation & workflow orchestration
+- Voice receptionists & lead answering engines  
+- Intelligent agents that integrate with CRMs and business systems :contentReference[oaicite:4]{index=4}
 
-**Frameworks & Tools**
-- Node.js
-- React
-- TailwindCSS
-- n8n
-- GHL
-- Vapi
-- Retell
-- Docker
-- Git
+**Software & Stack**
+- Python • JavaScript • TypeScript  
+- Node.js • React • TailwindCSS  
+- n8n, GHL, Vapi & automation pipelines  
+- APIs, integrations, backend services
 
-**AI Infrastructure**
-- OpenAI API
-- LangChain
-- Vector DBs
-- Custom AI Agents
+**Processes**
+- Production-ready AI system design
+- Business process digitization
+- Reliable deployment and iteration strategies
 
 ---
 
-## 📈 Current Focus
+## What I’m Focused On
 
-- Autonomous AI agents for real-world workflows
-- AI-first SaaS systems
-- Business process automation at scale
-- AI infrastructure & deployment optimization
+- AI workflows that reduce repetitive work  
+- Human-like AI assistants that *drive revenue*  
+- Turn missed calls and leads into automated opportunities  
+- AI-first backend products that scale with business needs :contentReference[oaicite:5]{index=5}
 
 ---
 
-## 📫 Contact
+## Philosophy
 
-- 📧 Email: shafique@unitzero.tech
+> Practical AI builds leverage — not just features.  
+> My work focuses on applied solutions that solve business problems.
+
+---
+
+## Get in Touch
+
+- 📧 Email: `shafique@unitzero.tech`
+- 🌐 Website: https://unitzero.tech  
 - 💼 LinkedIn: https://www.linkedin.com/in/shafique-ur-rehman-b7b859299/
-- 🌐 Company: https://unitzero.tech/
 
 ---
 
-## ⚡ Philosophy
+## 💡 Portfolio Highlights
 
-> AI is not a feature.  
-> It is infrastructure.
+📌 AI solutions that automate sales and support  
+📌 Intelligent systems that work 24/7  
+📌 Voice agents & workflow automations that scale
 
-I build systems that generate leverage.
+---
